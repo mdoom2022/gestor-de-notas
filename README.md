@@ -1,4 +1,4 @@
-# gestor de notas con laravel 8
+# gestor de notas
 
 ```
 datatesting
